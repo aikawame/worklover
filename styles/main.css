@@ -48,6 +48,10 @@ dt {
   line-height: 3.2rem;
 }
 
+dt img {
+  height: 4rem;
+}
+
 dd {
   margin: 0;
 }
